@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-import json, numpy as np, cv2
+import json, cv2
 
 app = Flask(__name__)
 
