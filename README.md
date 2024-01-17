@@ -1,1 +1,1 @@
-# beta-server
+# Beta Server
